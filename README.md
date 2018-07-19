@@ -5,9 +5,6 @@ Encrypt and Decrypt a String
 
 * [Install](#install)
 * [Usage](#usage)
-* [Write and test the library locally](#write-and-test)
-* [Publish the code and the package](#publish-package)
-* [Test your library](#test-lib)
 
 
 ## Install
