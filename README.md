@@ -9,8 +9,6 @@ Encrypt and Decrypt a String
 
 ## Install
 
-On the shell run the following commands:
-
 `npm install dvm-crypt-js --save`
 
 ## Usage 
