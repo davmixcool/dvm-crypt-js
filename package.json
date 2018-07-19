@@ -1,0 +1,25 @@
+{
+  "name": "dvm-crypt-js",
+  "version": "0.8.0",
+  "description": "Encrypt and Decrypt a String",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davmixcool/dvm-crypt-js.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "David Oti <davmixcool@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davmixcool/dvm-minlib-js/issues"
+  },
+  "homepage": "https://github.com/davmixcool/dvm-minlib-js#readme",
+  "dependencies": {
+    "mathjs": "^5.0.3"
+  }
+}
