@@ -1,5 +1,5 @@
 # dvm-crypt-js
-Encrypt and Decrypt a String
+Encrypt and Decrypt Alphabetic Strings
 
 ## Steps:
 
